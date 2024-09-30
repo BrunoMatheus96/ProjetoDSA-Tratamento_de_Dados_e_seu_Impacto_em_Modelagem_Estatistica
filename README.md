@@ -1,0 +1,4 @@
+# Objetivo
+Esse projeto  foca  no  tratamento  de  dados  categóricos  e  seu  impacto  na  modelagem estatística, destacando a importância de abordagens adequadas para a manipulação de variáveis não numéricas em análises preditivas.Dados categóricos, que representam categorias ou grupos, como  gênero,  nacionalidade  ou  status  de  cliente,  apresentam  desafios  únicos  em  termos  de modelagem  estatística,  uma  vez  que  muitos  algoritmos  de  Machine  Learning  e  técnicas estatísticas requerem entrada numérica.
+
+Este projeto visa explorar e aplicar diferentes técnicas de codificação e transformação de variáveis categóricas, como One-Hot Encoding e Ordinal Label Encoding, para preparar os dados para  análise.  Além  disso,  investiga  o  impacto  dessas  técnicas  na  performance  de  modelos estatísticos.
